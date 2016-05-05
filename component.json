@@ -1,6 +1,6 @@
 {
   "name": "jquery-ui",
-  "repo": "components/jqueryui",
+  "repo": "intelogie/jqueryui",
   "version": "1.11.4",
   "license": "MIT",
   "scripts": [
@@ -8,6 +8,6 @@
   ],
   "main": "jquery-ui.js",
   "dependencies": {
-    "components/jquery": "*"
+    "intelogie/jquery": "*"
   }
 }
